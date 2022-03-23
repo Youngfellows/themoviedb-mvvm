@@ -83,5 +83,3 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
-Consuming-TheMovieDB-API-With-Retrofit-and-Save-SQLite/.idea/
-Movie-App-Android/.idea/
